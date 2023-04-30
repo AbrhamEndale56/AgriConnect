@@ -4,14 +4,14 @@
 - Farmers /consumers are able to see and select from search result.
 - Farmers/consumers have a wide range access to delivery services.
 - Farmers/consumers are able to view the status of their delivery, such as ‘in transit’, ‘delivered’, etc.
-- Enable farmers/consumers to sign in and sign up with regular account:
+#### Enable farmers/consumers to sign in and sign up with regular account:
 - Farmers/consumers are able to create account by providing their username, password, email, and other necessary information.
 - Farmers/consumers are able to recover their password through recovery process.
 #### Trustworthy and dedicated delivery service:
 - Drivers will receive automatic notification when there are new orders that require their service.
 - Drivers are able to view and manage their notification from account dashboard.
 - Their service is tracked through GPS to endure safety.
-- Animal food provider/suppliers are able to manage their client’s orders and the delivery service system:
+#### Animal food provider/suppliers are able to manage their client’s orders and the delivery service system:
 - Suppliers have a separate account with administrative privileges.
 - Suppliers are able to view and manage the list of farmers and drivers registered in the system.
 - Suppliers are able to add, edit, or delete farmer and driver accounts as needed.
