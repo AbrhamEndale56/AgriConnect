@@ -1,5 +1,5 @@
-What can AgriConnect web application can do for you?
-Enable farmers/consumers to search, select, and purchase food:
+# What can AgriConnect web application can do for you?
+Enable farmers/consumers to search, select, and purchase food
 Farmers/consumers are able to search for animal food items based on criteria such as name, brand, category, etc.
 Farmers /consumers are able to see and select from search result.
 Farmers/consumers have a wide range access to delivery services.
