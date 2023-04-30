@@ -20,16 +20,16 @@
 - The admin has privilege to manage all user accounts with in the system.
 - The admin is able to view and manage the list of farmers, delivery drivers, and suppliers.
 - The admin is able to add, edit, or delete user accounts as needed.
-The admin is able to monitor and track orders placed by farmers and delivery services.
-Security and Authentication:
-This web application insures proper authentication and authorization mechanisms to ensure that only authorized users can access relevant features and data.
-Sensitive information such as payment details are protected using appropriate security measure.
-Data transmission between the web application and users are encrypted using HTTPS.
-User Interface and User Experience:
-The web application has a user-friendly and intuitive interface for farmers, drivers, suppliers, and the administer.
-The web application is responsive and accessible, ensuring it can be used on different devices and by users with different technical knowledge.
-The web application provides clear and informative feedback to users about the status of their orders, deliveries, and notifications.
-The web application has a proper error hander and validation to prevent data entry errors and ensure data integrity.
-Database and Data Management:
-The web application uses a secure and scalable database to store user accounts, orders, deliveries, and other relevant data.
-The database is properly designed with appropriate data structures and relationships to ensure efficient data retrieval and management.
+- The admin is able to monitor and track orders placed by farmers and delivery services.
+#### Security and Authentication:
+- This web application insures proper authentication and authorization mechanisms to ensure that only authorized users can access relevant features and data.
+- Sensitive information such as payment details are protected using appropriate security measure.
+- Data transmission between the web application and users are encrypted using HTTPS.
+#### User Interface and User Experience:
+- The web application has a user-friendly and intuitive interface for farmers, drivers, suppliers, and the administer.
+- The web application is responsive and accessible, ensuring it can be used on different devices and by users with different technical knowledge.
+- The web application provides clear and informative feedback to users about the status of their orders, deliveries, and notifications.
+- The web application has a proper error hander and validation to prevent data entry errors and ensure data integrity.
+#### Database and Data Management:
+- The web application uses a secure and scalable database to store user accounts, orders, deliveries, and other relevant data.
+- The database is properly designed with appropriate data structures and relationships to ensure efficient data retrieval and management.
